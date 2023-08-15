@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Veasna! 😊
+## Hey there, I'm Veasna! 😊
 I'm a current student at the University of Washington, studying Computer Science. 💻 My goal is to become a software engineer or a software developer engineer. 🚀
 
 #### 📁 Repository Overview
