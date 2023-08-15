@@ -2,7 +2,7 @@
 I'm a current student at the University of Washington, studying Computer Science & Systems. 🚀
 
 #### 📁 Repository Overview
-In this GitHub repository, you'll find a collection of projects I've been working on during my studies. Each project showcases my skills and passion for coding. Feel free to explore and check them out! 
+In the my GitHub repository, you'll find a collection of projects I've been working on during my studies. Each project showcases my skills and passion for coding. Feel free to explore and check them out! 
 
 #### 🔍 Internship Opportunities
 I'm actively seeking internships to gain real-world experience and enhance my skills. If you know of any exciting opportunities, please reach out! 🌟
