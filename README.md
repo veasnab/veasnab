@@ -1,5 +1,5 @@
 ## Hey there, I'm Veasna! 😊
-I'm a current student at the University of Washington, studying Computer Science. 💻 My goal is to become a software engineer or a software developer engineer. 🚀
+I'm a current student at the University of Washington, studying Computer Science & Systems. My goal is to become a software engineer or a software developer engineer. 🚀
 
 #### 📁 Repository Overview
 In this GitHub repository, you'll find a collection of projects I've been working on during my studies. Each project showcases my skills and passion for coding. Feel free to explore and check them out! 
