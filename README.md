@@ -11,5 +11,3 @@ I'm actively seeking internships to gain real-world experience and enhance my sk
 If you have any questions, suggestions, or exciting opportunities, feel free to reach out to me! You can contact me through the following channels:
 - Email:  [📧 veasna.bun@outlook.com](mailto:veasna.bun@outlook.com)
 - LinkedIn: [💼 veasnab](https://www.linkedin.com/in/veasnab/)
-
-I'm looking forward to hearing from you! 😊
