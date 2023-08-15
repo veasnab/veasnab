@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👨‍🎓 About Me
+I'm Veasna Bun, a current student at the University of Washington, studying Computer Science. 💻 My goal is to become a software engineer or a software developer engineer. 🚀
 
-<!--
-**veasnab/veasnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📁 Repository Overview
+In this GitHub repository, you'll find a collection of projects I've been working on during my studies. Each project showcases my skills and passion for coding. Feel free to explore and check them out! 😊
 
-Here are some ideas to get you started:
+### 🔍 Internship Opportunities
+I'm actively seeking internships to gain real-world experience and enhance my skills. If you know of any exciting opportunities, please reach out! 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💼 Contact Me
+If you have any questions, suggestions, or exciting opportunities, feel free to reach out to me! You can contact me through the following channels:
+- Email: veasna.bun@outlook.com
+- LinkedIn: [[veasnab](https://www.linkedin.com/in/veasnab/)]
+
+I'm looking forward to hearing from you! 😊
